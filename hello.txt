@@ -8,3 +8,4 @@ morning there, this is fisher, nice meeting you
 updated by test 
 updated by dev
 test github content added by local  
+test mac local git ,updated by remote github
